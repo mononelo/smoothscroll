@@ -1,7 +1,7 @@
 Smooth Scroll
 =============
 
-Tired of looking for a plugin that would provide me the ability to navigate within a page without jumps, I decided to create my own code of internal navigation using anchors.
+Tired of looking for a plugin that would provide me the ability to navigate within a page without jumps, I decided to create my own code of internal navigation using anchors and jQuery.
 You can check all the infomation at <a href="http://plugins.mononelo.es/smoothscroll/" target="_blank">plugins.mononelo.es/smoothscroll</a>
 
 
