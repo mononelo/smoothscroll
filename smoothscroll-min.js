@@ -1,0 +1,1 @@
+function smoothscroll(){$("a[href^=#]").each(function(){var e=$(this);var t=e.attr("href");e.attr("href","javascript:void(0)");e.attr("onclick","javascript:smoothscrollto('"+t+"')")})}function smoothscrollto(e){var t=$(e);var n=t.offset().top;$("html, body").animate({scrollTop:n},1500)}
